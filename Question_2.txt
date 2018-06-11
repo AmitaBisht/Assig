@@ -1,0 +1,2 @@
+list=['Google','Microsoft',Facebook','Apple','Tesla']
+print(list)
